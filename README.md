@@ -8,4 +8,4 @@ This is my personal responsive portfolio hosted as a Progressive Web App using G
 - W3.CSS Framework
 - Service Workers & Manifest (PWA)
 
-🌐 Live Website: [Click Here]([(https://darkness-22105.github.io/Task-hosting-3/)])
+🌐 Live Website: [Click Here](https://darkness-22105.github.io/Task-hosting-3/)
